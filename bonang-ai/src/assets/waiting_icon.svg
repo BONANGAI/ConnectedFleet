@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>waiting_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-50.000000, -261.000000)">
+        <path d="M68,270.962651 C68,266.560875 64.418278,262.99253 60,262.99253 C55.581722,262.99253 52,266.560875 52,270.962651 C52,275.364427 55.581722,278.932771 60,278.932771 L60,281 C54.4771525,280.925301 50,276.464871 50,270.962651 C50,265.460431 54.4771525,261 60,261 C65.5228475,261 70,265.460431 70,270.962651 L68,270.962651 Z" id="waiting_icon" fill=""></path>
+    </g>
+</svg>

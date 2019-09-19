@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="27px" viewBox="0 0 28 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>user_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="14" cy="13" r="13"></circle>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-443.000000, -244.000000)">
+        <g id="user_icon" transform="translate(443.000000, 244.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M14,15 C11.2385763,15 9,12.7614237 9,10 C9,7.23857625 11.2385763,5 14,5 C16.7614237,5 19,7.23857625 19,10 C19,12.7614237 16.7614237,15 14,15 Z M14,32 C9.581722,32 6,28.418278 6,24 C6,19.581722 9.581722,16 14,16 C18.418278,16 22,19.581722 22,24 C22,28.418278 18.418278,32 14,32 Z" id="Combined-Shape" fill="#404040" mask="url(#mask-2)"></path>
+            <path d="M14,27 C6.54415588,27 0.5,20.9558441 0.5,13.5 C0.5,6.04415588 6.54415588,0 14,0 C21.4558441,0 27.5,6.04415588 27.5,13.5 C27.5,20.9558441 21.4558441,27 14,27 Z M14,26 C20.9035594,26 26.5,20.4035594 26.5,13.5 C26.5,6.59644063 20.9035594,1 14,1 C7.09644063,1 1.5,6.59644063 1.5,13.5 C1.5,20.4035594 7.09644063,26 14,26 Z" id="Mask" fill="#404040" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

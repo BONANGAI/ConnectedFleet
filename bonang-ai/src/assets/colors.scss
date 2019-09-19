@@ -1,0 +1,64 @@
+// Global
+$font-color: #404040;
+$font-muted-color: #808080; // Invented by pelayo
+$highlighted-color: #5cb8e6;
+
+$light-grey: #ccc; // Invented by Pelayo
+$mid-grey: #787878; // Invented by pelayo
+
+// Top menu
+$top-menu-background: #f2f2f2;
+$top-menu-unselected-item-color: $highlighted-color;
+$top-menu-unselected-item-hover-color: #4895bc; // Invented by pelayo
+
+// Lists
+$list-item-background: #f2f2f2;
+$list-item-hover-background: #e2e2e2; // Invented by pelayo
+$list-item-border-color: #ccc;
+
+// Forms
+$form-item-label-color: $font-muted-color;
+$form-item-input-color: #404040;
+
+$form-actions-button-default-background: $font-muted-color;
+$form-actions-button-default-hover-background: #989898; // Invented by pelayo
+$form-actions-button-default-color: white;
+
+$form-actions-button-primary-background: $highlighted-color;
+$form-actions-button-primary-hover-background: #4895bc; // Invented by pelayo
+$form-actions-button-primary-color: white;
+
+$form-actions-button-success-background: #52cc95;
+$form-actions-button-success-hover-background: #5ce5a7; // Invented by pelayo
+$form-actions-button-success-color: white;
+
+$form-actions-button-link-color: $highlighted-color;
+$form-actions-button-link-hover-color: #4895bc;
+
+// Badges
+$badge-primary-background: #fff2cc;
+$badge-warning-background: #fff2cc;
+$badge-danger-background: #fad5db;
+$badge-success-background: #dcf5ea;
+$badge-red-background: #E62E4D;
+
+// Battery level
+$battery-level-high-background: #52cc95;
+$battery-level-mid-background: #ffbf00;
+$battery-level-low-background: #e62e4d;
+$battery-level-unknown-background: #eeeeee;
+
+// Tyre pressure
+$tyre-pressure-low-background: #d44151;
+$tyre-pressure-mid-background: #ffbf00; // Invented by pelayo
+$tyre-pressure-high-background: #75ca99;
+$tyre-pressure-recommended-text-color: $font-muted-color;
+
+// Other elements
+$well-background: #f2f2f2;
+$well-color: $font-muted-color;
+
+// Panels
+$panel-border-color: #d8d8d8;
+$panel-menu-border-color: $panel-border-color;
+$panel-menu-selected-background: $panel-border-color;
